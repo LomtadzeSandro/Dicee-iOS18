@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Dicee-iOS13
 //
-//  Created by Angela Yu on 11/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Based on App Brewery course project
+//  Modified and developed by Sandro Lomtadze
 //
 
 import UIKit
